@@ -46,7 +46,7 @@ const styles = {
     image: {
         height: 110,
         width: 110,
-        borderRadius: 4
+        borderRadius: 4,
     },
     name: {
         fontSize: 25
